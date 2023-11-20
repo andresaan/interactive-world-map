@@ -13,12 +13,16 @@ Explore the world with my interactive map made using Angular! Hover over countri
 ## How to Use: 
 
 ### Cloning the repository
+```
 git clone https://github.com/andresaan/interactive-world-map.git
 cd interactive-world-map
-
+```
 ### Install dependencies
+```
 npm install
-
+```
 ### Run the project
+```
 ng serve
+```
 Open http://localhost:4000
