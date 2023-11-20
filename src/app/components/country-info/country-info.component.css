@@ -1,0 +1,41 @@
+.country-info-component-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.country-info-container {
+    margin-top: 60px;
+    box-shadow: 0px 0px 2px 1px #211A1D;
+    background-color: hsl(180, 2%, 35%);
+    color: #ebebeb;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 24px;
+    flex-wrap: wrap;
+    width: 45%;
+    border-radius: 5px;
+
+}
+
+.country-name {
+    font-weight: bolder;
+}
+
+h1.page-title {
+    position: absolute;
+    top: 2%;
+    right: 5%;
+    font-size: 60px;
+    color: #211A1D;
+}
+
+h4 {
+    margin: 8px 0px;
+}
+
+p {
+    color: #d6d7d7;
+    margin: 4px 0px 16px 0px;
+}

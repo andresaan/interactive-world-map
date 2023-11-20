@@ -1,0 +1,12 @@
+.world-map-container {
+    position: relative;
+}
+
+
+.compass {
+    max-width: 30%;
+    position: absolute;
+    bottom: 10%;
+    left: -4%;
+    display: block;
+  }
